@@ -1,0 +1,14 @@
+E:\01-Bootcamp-DotNet\CSharp-core\Buoi8\baitapnop_buoi 8\baitapnop_buoi8\bin\Debug\net8.0\baitapnop_buoi8.exe
+E:\01-Bootcamp-DotNet\CSharp-core\Buoi8\baitapnop_buoi 8\baitapnop_buoi8\bin\Debug\net8.0\baitapnop_buoi8.deps.json
+E:\01-Bootcamp-DotNet\CSharp-core\Buoi8\baitapnop_buoi 8\baitapnop_buoi8\bin\Debug\net8.0\baitapnop_buoi8.runtimeconfig.json
+E:\01-Bootcamp-DotNet\CSharp-core\Buoi8\baitapnop_buoi 8\baitapnop_buoi8\bin\Debug\net8.0\baitapnop_buoi8.dll
+E:\01-Bootcamp-DotNet\CSharp-core\Buoi8\baitapnop_buoi 8\baitapnop_buoi8\bin\Debug\net8.0\baitapnop_buoi8.pdb
+E:\01-Bootcamp-DotNet\CSharp-core\Buoi8\baitapnop_buoi 8\baitapnop_buoi8\obj\Debug\net8.0\baitapnop_buoi8.GeneratedMSBuildEditorConfig.editorconfig
+E:\01-Bootcamp-DotNet\CSharp-core\Buoi8\baitapnop_buoi 8\baitapnop_buoi8\obj\Debug\net8.0\baitapnop_buoi8.AssemblyInfoInputs.cache
+E:\01-Bootcamp-DotNet\CSharp-core\Buoi8\baitapnop_buoi 8\baitapnop_buoi8\obj\Debug\net8.0\baitapnop_buoi8.AssemblyInfo.cs
+E:\01-Bootcamp-DotNet\CSharp-core\Buoi8\baitapnop_buoi 8\baitapnop_buoi8\obj\Debug\net8.0\baitapnop_buoi8.csproj.CoreCompileInputs.cache
+E:\01-Bootcamp-DotNet\CSharp-core\Buoi8\baitapnop_buoi 8\baitapnop_buoi8\obj\Debug\net8.0\baitapnop_buoi8.dll
+E:\01-Bootcamp-DotNet\CSharp-core\Buoi8\baitapnop_buoi 8\baitapnop_buoi8\obj\Debug\net8.0\refint\baitapnop_buoi8.dll
+E:\01-Bootcamp-DotNet\CSharp-core\Buoi8\baitapnop_buoi 8\baitapnop_buoi8\obj\Debug\net8.0\baitapnop_buoi8.pdb
+E:\01-Bootcamp-DotNet\CSharp-core\Buoi8\baitapnop_buoi 8\baitapnop_buoi8\obj\Debug\net8.0\baitapnop_buoi8.genruntimeconfig.cache
+E:\01-Bootcamp-DotNet\CSharp-core\Buoi8\baitapnop_buoi 8\baitapnop_buoi8\obj\Debug\net8.0\ref\baitapnop_buoi8.dll
